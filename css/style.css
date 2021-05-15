@@ -193,11 +193,11 @@ button.button:hover {
 }
 /* 2-Add to cart button */
 .product-view .product-shop .add-to-box .btn-cart {
-	background: #C2A476;
+	background: #008000;
 	color: #fff;
 }
 .product-view .product-shop .add-to-box .btn-cart:hover {
-	background: #202726;
+	background: #77dd77;
 	color: #fff;
 }
 /* 3-Add to cart QTY */
@@ -948,7 +948,7 @@ nav {
 	
 }
 
-.inner-page nav {background:url('../images/slide-img1.jpg') repeat top left ;
+.inner-page nav {background-color:#f4ac45;
 	height: 170px;  
 }
 
@@ -6447,6 +6447,7 @@ ol#compare-items li.last {
 	display: block;
 }
 .product-view .email-friend a {
+	background-color: #0f5c8b;
 	color: #999;
 	line-height: normal;
 	font-weight: normal;
@@ -6473,6 +6474,7 @@ ol#compare-items li.last {
 	display: block;
 }
 .product-view .product-shop .add-to-links .link-wishlist {
+	background-color: #0f5c8b;
 	color: #999;
 	line-height: 30px;
 	font-size: 12px;
@@ -8136,7 +8138,7 @@ header .header-top-links {
 }
 
 .inner-page nav {
-    background: url('../images/slide-img1.jpg') repeat top left;
+    background-color: #f4ac45;
     height: 100px;
 	margin-top:0px
 }
